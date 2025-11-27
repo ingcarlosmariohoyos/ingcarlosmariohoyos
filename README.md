@@ -62,6 +62,8 @@ Incluye:
 + Presentación de resultados en Power BI mediante varios gráficos organizados y explicativos
 <br><br>
 
+Repositorio: https://github.com/ingcarlosmariohoyos/Pokemon_analitycs
+
 <h2>🎯 Mi Misión</h2>
 
 Desarrollar y optimizar soluciones basadas en datos mediante Python y herramientas de Big Data, aplicar análisis estadísticos que generen insights reales y crear visualizaciones efectivas que conviertan la información en decisiones estratégicas.
