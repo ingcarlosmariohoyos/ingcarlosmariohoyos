@@ -66,7 +66,7 @@ Repositorio: https://github.com/ingcarlosmariohoyos/Pokemon_analitycs
 
 <h2>🎯 Mi Misión</h2>
 
-Desarrollar y optimizar soluciones basadas en datos mediante Python y herramientas de Big Data, aplicar análisis estadísticos que generen insights reales y crear visualizaciones efectivas que conviertan la información en decisiones estratégicas.
+Impulsar decisiones estratégicas mediante el Análisis de Datos (Visualizaciones efectivas e Insights) y la construcción de Flujos de Ingeniería de Datos (Python/SQL) que garantizan la escalabilidad y confiabilidad de la información.
 
 <br><br>
 
